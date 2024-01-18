@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 
 public class numbers_operations {
-    public static void main(String[] arg){
+    public static void main(String[] args){
         int i = 20;
 
         BigDecimal rideFee = BigDecimal.valueOf(20).setScale(2);
