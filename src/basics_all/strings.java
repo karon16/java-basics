@@ -5,5 +5,6 @@ public class strings {
         String s = " hello ";
         System.out.println(s);
         System.out.println(s.toUpperCase());
+        System.out.println(s.toLowerCase());
     }
 }
