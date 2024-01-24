@@ -9,5 +9,6 @@ public class strings {
         System.out.println(s.contains("ll"));
         System.out.println(s.endsWith(" "));
         System.out.println(s.concat("World ").trim());
+        System.out.println(s.charAt(2));
     }
 }
