@@ -10,5 +10,6 @@ public class strings {
         System.out.println(s.endsWith(" "));
         System.out.println(s.concat("World ").trim());
         System.out.println(s.charAt(2));
+        System.out.println(s.concat("world"));
     }
 }
